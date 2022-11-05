@@ -6,6 +6,9 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
+global.autorecording = false //status auto merekam ( auto record )
+global.autoketik = false //status auto mengetik (auto typing)
+global.autoavailable = false //status online (online)
 global.wlcm = []
 global.ntnsfw = []
 global.ntnsfww = []
