@@ -36,6 +36,7 @@ global.premium = ['6285795841048'] // ubah aja pake nomor lu
 global.packname = 'ANGGAZYY' // ubah aja
 global.ownerr = ['AnggaztySilenty'] // ubaha aja
 global.author = 'ANGGAZYY' //ubah aja
+global.linkgrupss = "https://chat.whatsapp.com/KoEzXGdj9CQA3QzoEjyNlc"
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
