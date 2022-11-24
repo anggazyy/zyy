@@ -4684,7 +4684,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤ 𝟔𝟔𝟔 𝐒𝐚𝐭𝐚𝐧𝐢𝐜
 ╠➤ 𝐀𝐥𝐥 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 𝐁𝐨𝐭
 ╚════[ 𝕬𝖓𝖌𝖌𝖆 𝕾𝖆𝖙𝖆𝖓𝖎𝖈 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC Anggazyy Punzyfavboy`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `SC Anggazyy`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://wa.me/62882021734861`,
